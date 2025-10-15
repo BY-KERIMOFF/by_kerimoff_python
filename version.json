@@ -1,0 +1,7 @@
+{
+    "version": "2.1",
+    "download_url": "https://raw.githubusercontent.com/kerimoff/iptvscanner/main/iptv_scanner_latest.py",
+    "changelog": "✅ SMS göndərmə əlavə edildi\\n✅ Avtomatik yenilənmə əlavə edildi\\n✅ Performans optimallaşdırıldı",
+    "critical": false,
+    "release_date": "2024-01-15"
+}
